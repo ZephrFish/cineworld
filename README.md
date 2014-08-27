@@ -1,6 +1,8 @@
 cineworld
 ================
 
+I plan on integrating this repository with my UnlmtdCalc app in order to add api calls and personalisation to the application
+
 What is this?
 ------------
 
